@@ -8,6 +8,8 @@ This NPM Package allows Fig developers to quickly install and update tools that 
 
 To learn more about autocomplete, visit [github.com/withfig/autocomplete](github.com/withfig/autocomplete)
 
+Want to learn more? Join our [community discord](https://fig.io/community)
+
 ```
 npx fig
 ```
